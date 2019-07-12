@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/emile-gaboriau/the-mystery-of-orcival</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-07-12T20:20:02Z</dc:date>
+		<meta property="dcterms:modified">2019-07-12T20:20:02Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,12 +32,12 @@
 		<dc:subject id="subject-1">Fiction</dc:subject>
 		<dc:subject id="subject-2">Detective and mystery stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85037260</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">A countess is murdered, suspects quickly detained, but Lecoq is not satisfied and looks in a different direction to solve the case.</dc:description>
+		<dc:description id="description">A countess is murdered and suspects are quickly detained, but Lecoq is not satisfied and looks in a different direction to solve the case.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A murder is discovered. The authorities quickly arrest an obvious suspect. A detective spends hours at the scene in disguise before making himself known, and proceeds to minutely examine the evidence with the assistance of a doctor, among others, before proclaiming the answer lies in a completely different direction. One would be forgiven for thinking the detective must be a certain famous Englishman and his doctor companion.&lt;/p&gt;
 			&lt;p&gt;But this detective is French rather than English, a professional working for the police rather than an amateur, and indulges in candy lozenges rather than cocaine. If there is a straight line between Poe’s Dupin and Doyle’s Holmes, then Gaboriau’s Lecoq lies right in the middle of it. He is a master of disguise, he is proud and sometimes arrogant, he notices infinitesimal things others do not, he makes great leaps in deduction while others are struggling to take small steps. He is both strikingly similar and distinctly different than his more famous English “cousin.”&lt;/p&gt;
@@ -45,8 +45,8 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1651</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">105285</meta>
+		<meta property="se:reading-ease.flesch">73.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mystery_of_Orcival</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-gaboriau_the-mystery-of-orcival</meta>
 		<dc:creator id="author">Emile Gaboriau</dc:creator>
@@ -72,6 +72,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
