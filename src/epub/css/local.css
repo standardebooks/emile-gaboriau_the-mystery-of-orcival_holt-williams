@@ -14,6 +14,10 @@ header{
 	text-align: right;
 }
 
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
 footer{
 	text-align: right;
 	margin-top: 1em;
