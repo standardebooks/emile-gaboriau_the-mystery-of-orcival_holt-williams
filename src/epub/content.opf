@@ -37,6 +37,7 @@
 		<meta property="term" refines="#subject-2">sh85037260</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
+		<meta property="se:collection">Monsieur Lecoq</meta>
 		<dc:description id="description">A countess is murdered and suspects are quickly detained, but Lecoq is not satisfied and looks in a different direction to solve the case.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A murder is discovered. The authorities quickly arrest an obvious suspect. A detective spends hours at the scene in disguise before making himself known, and proceeds to minutely examine the evidence with the assistance of a doctor, among others, before proclaiming the answer lies in a completely different direction. One would be forgiven for thinking the detective must be a certain famous Englishman and his doctor companion.&lt;/p&gt;
