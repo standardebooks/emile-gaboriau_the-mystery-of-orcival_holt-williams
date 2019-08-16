@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 690">
-	<title>The titlepage for the Standard Ebooks edition of The Mystery of Orcival, by Emile Gaboriau. Translated by Holt &amp; Williams</title>
+	<title>The titlepage for the Standard Ebooks edition of The Mystery of Orcival, by Émile Gaboriau. Translated by Holt &amp; Williams</title>
 	<g aria-label="THE MYSTERY">
 		<path d="m 352.19225,68.245613 h 18.33918 V 130 h 17.59064 V 68.245613 h 18.33918 V 52.807016 h -54.269 z"/>
 		<path d="m 435.38669,99.029239 h 24.88889 V 130 h 17.59064 V 52.807016 H 460.27558 V 83.590642 H 435.38669 V 52.807016 H 417.79605 V 130 h 17.59064 z"/>
@@ -24,8 +24,8 @@
 		<path d="M 932.1835,152.80702 H 915.9028 L 884.7449,230 h 18.90059 l 5.7076,-15.4386 h 29.38012 L 944.44081,230 h 18.90059 z m 0.56141,46.31579 H 915.3414 l 8.60818,-22.45614 h 0.18714 z"/>
 		<path d="M 988.85163,152.80702 H 971.26099 V 230 h 44.16371 v -15.4386 h -26.57307 z"/>
 	</g>
-	<g aria-label="EMILE GABORIAU">
-		<path d="M 390.48301,332.10526 H 357.3602 V 390 h 33.12281 v -11.57895 h -19.92983 v -11.64912 h 19.08772 v -11.57895 h -19.08772 v -11.50877 h 19.92983 z"/>
+	<g aria-label="ÉMILE GABORIAU">
+		<path d="m 365.21985,321.50877 3.92982,5.40351 16.70176,-9.68421 -6.38597,-8.07017 z m 25.26316,10.59649 H 357.3602 V 390 h 33.12281 v -11.57895 h -19.92983 v -11.64912 h 19.08772 v -11.57895 h -19.08772 v -11.50877 h 19.92983 z"/>
 		<path d="m 450.92709,390 h 13.19298 l -5.19298,-57.89474 H 444.892 l -12.84211,33.40351 -12.8421,-33.40351 H 405.1727 L 399.97972,390 h 13.19298 l 2.73684,-34.31579 h 0.35088 l 11.85965,33.96491 h 7.85965 l 11.85965,-33.96491 h 0.35087 z"/>
 		<path d="M 487.59814,332.10526 H 474.40515 V 390 h 13.19299 z"/>
 		<path d="M 514.25384,332.10526 H 501.06085 V 390 h 33.12281 v -11.57895 h -19.92982 z"/>

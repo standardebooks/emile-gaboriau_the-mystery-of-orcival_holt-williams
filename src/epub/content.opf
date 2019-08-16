@@ -51,9 +51,9 @@
 		<meta property="se:reading-ease.flesch">73.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mystery_of_Orcival</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-gaboriau_the-mystery-of-orcival_holt-williams</meta>
-		<dc:creator id="author">Emile Gaboriau</dc:creator>
-		<meta property="file-as" refines="#author">Gaboriau, Emile</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Emile_Gaboriau</meta>
+		<dc:creator id="author">Émile Gaboriau</dc:creator>
+		<meta property="file-as" refines="#author">Gaboriau, Émile</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Émile_Gaboriau</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no98072052</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>

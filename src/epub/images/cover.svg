@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<title>The cover for the Standard Ebooks edition of The Mystery of Orcival, by Emile Gaboriau. Translated by Holt &amp; Williams</title>
+	<title>The cover for the Standard Ebooks edition of The Mystery of Orcival, by Émile Gaboriau. Translated by Holt &amp; Williams</title>
 	<style type="text/css">
 		path{
 			fill: #fff;
@@ -36,8 +36,8 @@
 		<path d="M 932.1835,1797.807 H 915.9028 L 884.7449,1875 h 18.90059 l 5.7076,-15.4386 h 29.38012 l 5.7076,15.4386 h 18.90059 z m 0.56141,46.3158 H 915.3414 l 8.60818,-22.4561 h 0.18714 z"/>
 		<path d="M 988.85163,1797.807 H 971.26099 V 1875 h 44.16371 v -15.4386 h -26.57307 z"/>
 	</g>
-	<g aria-label="EMILE GABORIAU">
-		<path d="M 482.82052,1936.4032 H 460.73848 V 1975 h 22.08204 v -7.7194 h -13.28665 v -7.7661 h 12.72525 v -7.7194 h -12.72525 v -7.6725 h 13.28665 z"/>
+	<g aria-label="ÉMILE GABORIAU">
+		<path d="m 465.97828,1929.3388 2.61991,3.6024 11.13459,-6.4562 -4.25734,-5.3802 z m 16.84224,7.0644 H 460.73848 V 1975 h 22.08204 v -7.7194 h -13.28665 v -7.7661 h 12.72525 v -7.7194 h -12.72525 v -7.6725 h 13.28665 z"/>
 		<path d="m 524.78354,1975 h 8.79539 l -3.46202,-38.5968 h -9.3568 l -8.56147,22.2692 -8.56147,-22.2692 h -9.3568 L 490.81835,1975 h 8.7954 l 1.82457,-22.8774 h 0.23392 l 7.9065,22.6435 h 5.23981 l 7.90649,-22.6435 h 0.23392 z"/>
 		<path d="m 550.89774,1936.4032 h -8.79539 V 1975 h 8.79539 z"/>
 		<path d="M 570.33499,1936.4032 H 561.5396 V 1975 h 22.08205 v -7.7194 h -13.28666 z"/>
