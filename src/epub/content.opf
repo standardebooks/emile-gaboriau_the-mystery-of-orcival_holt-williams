@@ -50,7 +50,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1651</dc:source>
 		<dc:source>https://books.google.com/books?id=ays9AAAAYAAJ</dc:source>
-		<meta property="se:word-count">105279</meta>
+		<meta property="se:word-count">105280</meta>
 		<meta property="se:reading-ease.flesch">73.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mystery_of_Orcival</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/emile-gaboriau_the-mystery-of-orcival_holt-williams</meta>
