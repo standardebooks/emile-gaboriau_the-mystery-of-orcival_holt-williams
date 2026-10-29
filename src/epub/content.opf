@@ -60,7 +60,7 @@
 		<link href="https://github.com/standardebooks/emile-gaboriau_the-mystery-of-orcival_holt-williams" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Émile Gaboriau</dc:creator>
 		<meta property="file-as" refines="#author">Gaboriau, Émile</meta>
-		<link href="https://en.wikipedia.org/wiki/Émile_Gaboriau" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/%C3%89mile_Gaboriau" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/no98072052.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -71,7 +71,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Eugène Boudin</dc:contributor>
 		<meta property="file-as" refines="#artist">Boudin, Eugène</meta>
-		<link href="https://en.wikipedia.org/wiki/Eugène_Boudin" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Eug%C3%A8ne_Boudin" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81139753.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
